@@ -3,7 +3,7 @@ package alg.implementation.medium;
 import java.util.Scanner;
 
 public class Bonetrousle {
-
+	// TODO Not finished, this one tries to speed up!
 	private static long n[];
 	private static long k[];
 	private static int b[];
